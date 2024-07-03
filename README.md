@@ -1,8 +1,7 @@
 # <summary><strong>Hallo :wave: , I'm Imanmaris</strong></summary>
 <p style="text-align: justify;">
-    Tapping into my experience optimizing manufacturing processes, I bring sharp problem-solving skills and a keen eye for detail to software engineering. Passionately mastering both <b>backend and frontend development</b>, I thrive on     <b>continuous learning</b> and <b>collaborative innovation</b>.
+    Passionately mastering <b>junior backend and frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>.
 </p>
-
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -23,6 +22,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [![Poetry](https://img.shields.io/badge/Poetry-376E9E?style=for-the-badge&logo=python&logoColor=white)](https://python-poetry.org/)
@@ -30,12 +30,18 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
+<p>
+    <img src="https://img.shields.io/badge/Platform%20Deployment-API%20Testing-orange?&logo=netlify&logoColor=yellow" />    
+</p>
 
+<div align=center>
+    
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-4051DB?style=for-the-badge&logo=railway&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 </div>
  
