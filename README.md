@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Maris!</strong></summary>
-"Tapping into my experience optimizing manufacturing processes, I bring sharp problem-solving skills and a keen eye for detail to software engineering. Passionately mastering both <b>backend and frontend development</b>, I thrive on continuous learning and collaborative innovation."
+"Tapping into my experience optimizing manufacturing processes, I bring sharp problem-solving skills and a keen eye for detail to software engineering. Passionately mastering both <b>backend and frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>."
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
