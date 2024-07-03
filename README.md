@@ -1,6 +1,6 @@
 # <summary><strong>Hallo :wave: , I'm Imanmaris</strong></summary>
 <p style="text-align: justify;">
-    Passionately mastering <b>junior backend and frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>.
+    Passionately studying <b>junior backend</b> and <b>frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>.
 </p>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
