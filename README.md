@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-#### 
 <div align=center>
     
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -32,6 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
+####
 <p>
     <img src="https://img.shields.io/badge/Platform%20Deployment-API%20Testing-orange?&logo=netlify&logoColor=yellow" />    
 </p>
