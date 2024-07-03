@@ -1,4 +1,4 @@
-# <summary><strong>Hallo.. :wave: , I'm Imanmaris!</strong></summary>
+# <summary><strong>Hallo :wave:, I'm Imanmaris</strong></summary>
 "Tapping into my experience optimizing manufacturing processes, I bring sharp problem-solving skills and a keen eye for detail to software engineering. Passionately mastering both <b>backend and frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>."
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
