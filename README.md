@@ -1,8 +1,14 @@
-# <summary><strong>Hallo :wave:, I'm Imanmaris</strong></summary>
-"Tapping into my experience optimizing manufacturing processes, I bring sharp problem-solving skills and a keen eye for detail to software engineering. Passionately mastering both <b>backend and frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>."
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+# <summary><strong>Hallo :wave: , I'm Imanmaris</strong></summary>
+<p style="text-align: justify;">
+    Tapping into my experience optimizing manufacturing processes, I bring sharp problem-solving skills and a keen eye for detail to software engineering. Passionately mastering both <b>backend and frontend development</b>, I thrive on     <b>continuous learning</b> and <b>collaborative innovation</b>.
 </p>
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p>
+
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+<div align=center>
+    <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p>
+</div>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
@@ -10,6 +16,8 @@
 </p>
 
 #### 
+<div align=center>
+    
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -28,18 +36,28 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-4051DB?style=for-the-badge&logo=railway&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+</div>
  
 ### <summary><strong>Let's connect!</strong></summary>
+<div align="left">
+  <a href="mailto:marisiman99@gmail.com">
+    <img src="https://img.shields.io/badge/My%20Email-marisiman99@gmail.com%20-red?&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<div align=center>
 <a href="https://www.linkedin.com/in/iman-maris-profile/">
-  <img align="left" alt="Maris Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img alt="Maris Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://id.scribd.com/user/274627346/MarisIman">
-  <img align="left" alt="Maris Scribd" width="20px" src="https://simpleicons.now.sh/scribd/495f7e" />
+  <img alt="Maris Scribd" width="20px" src="https://simpleicons.now.sh/scribd/495f7e" />
 </a>
 <a href="https://www.tokopedia.com/herbalamimum">
-  <img align="left" alt="Maris Tokopedia" width="20px" src="https://simpleicons.now.sh/shopee/495f7e" />
+  <img alt="Maris Tokopedia" width="20px" src="https://simpleicons.now.sh/shopee/495f7e" />
 </a>
+</div>
+
 
 
 <!--
