@@ -6,49 +6,16 @@
     Passionately studying <b>junior backend</b> and <b>frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>.
 </p>
 
-### <summary><strong>Tools:</strong></summary>
+#
+
+### <summary><strong>Languages and Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=laptop&logoColor=blue" />
 </p>
 
 <div align=center>
     
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-[![Poetry](https://img.shields.io/badge/Poetry-376E9E?style=for-the-badge&logo=poetry&logoColor=white)](https://python-poetry.org/)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-</div>
-
-####
-<p>
-    <img src="https://img.shields.io/badge/Platform-%20Deployment-white?&logo=netlify&logoColor=yellow" />    
-</p>
-
-<div align=center>
-    
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-4051DB?style=for-the-badge&logo=railway&logoColor=white)
-
-</div>
-
-<p>
-    <img src="https://img.shields.io/badge/Platform%20-API%20Testing-orange?&logo=swagger&logoColor=white" />    
-</p>
-<div align=center>
-    
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) [![Poetry](https://img.shields.io/badge/Poetry-376E9E?style=flat-square&logo=poetry&logoColor=white)](https://python-poetry.org/) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-4051DB?style=flat-square&logo=railway&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 </div>
 
 ### <summary><strong>Github Stats:</strong></summary>
@@ -60,6 +27,8 @@
 <!--     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p> -->
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&show_icons=true&locale=en&layout=compact" alt="imanmaris99" /></p>
 </div>
+
+#
 
 ### <summary><strong>Let's connect!</strong></summary>
 <p>
@@ -99,6 +68,28 @@
 
 
 <!--
+####
+<p>
+    <img src="https://img.shields.io/badge/Platform-%20Deployment-white?&logo=netlify&logoColor=yellow" />    
+</p>
+
+<div align=center>
+    
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-4051DB?style=flat-square&logo=railway&logoColor=white)
+
+</div>
+
+<p>
+    <img src="https://img.shields.io/badge/Platform%20-API%20Testing-orange?&logo=swagger&logoColor=white" />    
+</p>
+<div align=center>
+    
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
 **imanmaris99/imanmaris99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
