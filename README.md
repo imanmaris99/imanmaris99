@@ -1,17 +1,14 @@
 # <summary><strong>Hallo :wave: , I'm Imanmaris</strong></summary>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
+</p>
 <p style="text-align: justify;">
     Passionately studying <b>junior backend</b> and <b>frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>.
 </p>
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-<div align=center>
-    <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p>
-</div>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=laptop&logoColor=blue" />
 </p>
 
 <div align=center>
@@ -24,7 +21,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-[![Poetry](https://img.shields.io/badge/Poetry-376E9E?style=for-the-badge&logo=python&logoColor=white)](https://python-poetry.org/)
+[![Poetry](https://img.shields.io/badge/Poetry-376E9E?style=for-the-badge&logo=poetry&logoColor=white)](https://python-poetry.org/)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,7 +30,7 @@
 
 ####
 <p>
-    <img src="https://img.shields.io/badge/Platform%20Deployment-API%20Testing-orange?&logo=netlify&logoColor=yellow" />    
+    <img src="https://img.shields.io/badge/Platform-%20Deployment-white?&logo=netlify&logoColor=yellow" />    
 </p>
 
 <div align=center>
@@ -42,19 +39,52 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-4051DB?style=for-the-badge&logo=railway&logoColor=white)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 </div>
- 
+
+<p>
+    <img src="https://img.shields.io/badge/Platform%20-API%20Testing-orange?&logo=swagger&logoColor=white" />    
+</p>
+<div align=center>
+    
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</div>
+
+### <summary><strong>Github Stats:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/My%20progress-here%20!!-yellow?&logo=contact&logoColor=white" />    
+</p>
+
+<div align=center>
+<!--     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p> -->
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&show_icons=true&locale=en&layout=compact" alt="imanmaris99" /></p>
+</div>
+
 ### <summary><strong>Let's connect!</strong></summary>
-<div align="left">
-  <a href="mailto:marisiman99@gmail.com">
-    <img src="https://img.shields.io/badge/My%20Email-marisiman99@gmail.com%20-red?&logo=gmail&logoColor=red" />
-  </a>
+<p>
+    <img src="https://img.shields.io/badge/Contact%20me-here%20!!-red?&logo=contact&logoColor=white" />    
+</p>
+
+<div align="center">
+    <a href="mailto:marisiman99@gmail.com">
+        <img src="https://img.shields.io/badge/marisiman99@gmail.com%20-white?&logo=gmail&logoColor=red" />
+    </a>   
+    <a href="https://www.linkedin.com/in/iman-maris-profile">
+      <img src="https://img.shields.io/badge/imanmaris%20-0A66C2?&logo=linkedin&logoColor=white" />
+    </a>
+</div>
+
+<div align="center">
+    <p>Other can check this :</p>
+    <a href="https://www.tokopedia.com/herbalamimum">
+      <img alt="Maris Tokopedia" width="20px" src="https://simpleicons.now.sh/shopee/495f7e" />
+    </a>
 </div>
 
 ####
 
-<div align=center>
+<!-- <div align=center>
 <a href="https://www.linkedin.com/in/iman-maris-profile/">
   <img alt="Maris Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
@@ -63,8 +93,8 @@
 </a>
 <a href="https://www.tokopedia.com/herbalamimum">
   <img alt="Maris Tokopedia" width="20px" src="https://simpleicons.now.sh/shopee/495f7e" />
-</a>
-</div>
+</a> 
+</div> -->
 
 
 
