@@ -31,7 +31,7 @@
 
 #
 
-### <summary><strong>Let's connect!</strong></summary>
+### <summary><strong>Let's Connect!</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Contact%20me-here%20!!-red?&logo=contact&logoColor=white" />    
 </p>
