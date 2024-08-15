@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
 <p style="text-align: justify;">
-    I have a background in the automotive industry with 6 years of experience. Currently, I am passionately studying <b>backend</b> and frontend development, thriving through <b>continuous         learning</b> and <b>collaborative innovation</b>. My interest in web development drives me to continually seek new knowledge and enhance my skills in creating dynamic and user-friendly         web applications.
+    I have a background in the automotive industry with 5.5 years of experience. Currently, I am passionately studying <b>backend</b> and frontend development, thriving through <b>continuous         learning</b> and <b>collaborative innovation</b>. My interest in web development drives me to continually seek new knowledge and enhance my skills in creating dynamic and user-friendly         web applications.
 </p>
 <!-- Passionately studying <b>junior backend</b> and <b>frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>. -->
 
