@@ -1,4 +1,4 @@
-# <summary><strong>Hallo :wave: , I'm Imanmaris</strong></summary>
+# <summary><strong>Hallo :wave: , I'm <img src="https://drive.google.com/uc?id=1_JfSbIkciKqhXij0ldi0BVJWvZ9v36qB" width="70px" /> .maris</strong></summary> 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
@@ -45,12 +45,24 @@
     </a>
 </div>
 
-<div align="center">
+#
+
+<div align="left">
     <p style="font-size: 7px;">
         Feel free to check out my UMKM at this : 
         <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
             <img alt="Maris Tokopedia" width="18px" src="https://simpleicons.now.sh/shopee/495f7e" />
         </a>
+    </p>
+</div>
+
+###
+<div align="center">
+     <a href="https://www.tokopedia.com/herbalamimum](https://github.com/imanmaris99/imanmaris99" target="_blank" rel="noopener noreferrer">
+        <img src="https://drive.google.com/uc?id=1IRowQh8vP4VsejW_E-Zul7zJZI5lIQCJ" width="70px" />
+    </a>
+    <p style="font-size: 7px;">
+       copyright &copy; 2024 
     </p>
 </div>
 
