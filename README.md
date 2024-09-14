@@ -47,13 +47,13 @@
 
 ###
 
-<div align="left">
-    <p style="font-size: 7px;">
-        Feel free to check out my UMKM at this : 
-        <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
-            <img alt="Maris Tokopedia" width="18px" src="https://simpleicons.now.sh/shopee/495f7e" />
-        </a>
-    </p>
+<p style="font-size: 7px;">
+    Feel free to check out my UMKM at this : 
+</p>
+<div align="center">
+    <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
+        <img alt="Maris Tokopedia" width="18px" src="https://simpleicons.now.sh/shopee/495f7e" />
+    </a>
 </div>
 
 ###
