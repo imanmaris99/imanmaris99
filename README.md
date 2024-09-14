@@ -38,10 +38,10 @@
 
 <div align="center">
     <a href="mailto:marisiman99@gmail.com">
-        <img src="https://img.shields.io/badge/marisiman99@gmail.com%20-white?&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/Gmail%20-white?&logo=gmail&logoColor=red" />
     </a>   
     <a href="https://www.linkedin.com/in/iman-maris-profile">
-      <img src="https://img.shields.io/badge/imanmaris%20-0A66C2?&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn%20-0A66C2?&logo=linkedin&logoColor=white" />
     </a>
 </div>
 
