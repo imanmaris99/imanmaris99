@@ -58,7 +58,7 @@
 
 ###
 <div align="center">
-     <a href="https://www.tokopedia.com/herbalamimum](https://github.com/imanmaris99/imanmaris99" target="_blank" rel="noopener noreferrer">
+     <a href="https://github.com/imanmaris99" target="_blank" rel="noopener noreferrer">
         <img src="https://drive.google.com/uc?id=1IRowQh8vP4VsejW_E-Zul7zJZI5lIQCJ" width="70px" />
     </a>
     <p style="font-size: 7px;">
