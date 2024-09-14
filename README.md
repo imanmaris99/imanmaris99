@@ -50,13 +50,13 @@
 <p style="font-size: 7px;">
     Feel free to check out my UMKM at this : 
 </p>
-<div align="center">
+<div align="left">
     <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
         <img alt="Maris Tokopedia" width="18px" src="https://simpleicons.now.sh/shopee/495f7e" />
     </a>
 </div>
 
-###
+##
 <div align="center">
      <a href="https://github.com/imanmaris99" target="_blank" rel="noopener noreferrer">
         <img src="https://drive.google.com/uc?id=1IRowQh8vP4VsejW_E-Zul7zJZI5lIQCJ" width="70px" />
