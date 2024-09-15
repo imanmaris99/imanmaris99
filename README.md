@@ -6,7 +6,7 @@
 <!-- img src="https://media.giphy.com/media/ZhmUInkyxoSJ9hywzj/giphy.gif" -->
     
 <!-- # <summary><strong>Hallo :wave: , I'm <img src="https://drive.google.com/uc?id=1_JfSbIkciKqhXij0ldi0BVJWvZ9v36qB" width="70px" />.maris</strong></summary> -->
-# <summary><strong>Hi there :wave: , Good to see you!</summary> 
+# <summary><strong>Hii There :wave: , Good to See You!</summary> 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
