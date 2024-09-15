@@ -1,3 +1,9 @@
+<div style="position: absolute; top: 0; left: 0; width: 100vw; height: 100vh; overflow: hidden;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFyZnN6dnRxZzR1djJ3bGR6emE5c2NtNzBnMGpvNGNoeGw5bWRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZhmUInkyxoSJ9hywzj/giphy-downsized-large.gif" 
+    alt="imanmaris99" style="width: 100vw; height: 50vh; object-fit: cover;" />
+</div>
+
+
 # <summary><strong>Hallo :wave: , I'm <img src="https://drive.google.com/uc?id=1_JfSbIkciKqhXij0ldi0BVJWvZ9v36qB" width="70px" />.maris</strong></summary> 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
