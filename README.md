@@ -1,10 +1,3 @@
-<!--
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNwMXNhMG4zdmo3dXJhcGR5cjBpNXB0OGZha2ZvNnVrODg0M3A3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aONXZta4lgHwcEweox/giphy.gif" 
-    alt="imanmaris99" style="width: 100%; height: 100%; object-fit: cover; max-width: 100vw; max-height: 50vh;" />
-</div>
--->
-
 <img align="center" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpaGZrdWdmM2YxZXh1bndidDVyY2dmbHlyanJuZXU2eGtkdTk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bekT62TT0I7E4TSZh/giphy.gif">
 
 # <summary><strong>Hallo :wave: , I'm <img src="https://drive.google.com/uc?id=1_JfSbIkciKqhXij0ldi0BVJWvZ9v36qB" width="70px" />.maris</strong></summary> 
@@ -12,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
 <p style="text-align: justify;">
-    I have a background in the automotive industry with 5.5 years of experience. Currently, I am passionately studying <b>backend</b> and frontend development, thriving through <b>continuous         learning</b> and <b>collaborative innovation</b>. My interest in web development drives me to continually seek new knowledge and enhance my skills in creating dynamic and user-friendly         web applications.
+    I have a background in the automotive industry with 5.5 years of experience. Currently, I am passionately studying <b>backend</b> and frontend development, thriving through <b>continuous         learning</b> and <b>collaborative innovation</b>. My interest in web development drives me to continually seek new knowledge and enhance my skills in creating dynamic and user-friendly web applications.
 </p>
 <!-- Passionately studying <b>junior backend</b> and <b>frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>. -->
 
