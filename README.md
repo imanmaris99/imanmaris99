@@ -1,9 +1,11 @@
-<div style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; margin: 0; padding: 0; overflow: hidden; z-index: -1;">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFyZnN6dnRxZzR1djJ3bGR6emE5c2NtNzBnMGpvNGNoeGw5bWRuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZhmUInkyxoSJ9hywzj/giphy-downsized-large.gif" 
-    alt="imanmaris99" style="width: 100vw; height: 100vh; object-fit: cover; margin: 0; padding: 0; border: none;" />
+<!--
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; overflow: hidden;">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNwMXNhMG4zdmo3dXJhcGR5cjBpNXB0OGZha2ZvNnVrODg0M3A3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aONXZta4lgHwcEweox/giphy.gif" 
+    alt="imanmaris99" style="width: 100%; height: 100%; object-fit: cover; max-width: 100vw; max-height: 50vh;" />
 </div>
+-->
 
-
+<img align="center" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtpaGZrdWdmM2YxZXh1bndidDVyY2dmbHlyanJuZXU2eGtkdTk5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4bekT62TT0I7E4TSZh/giphy.gif">
 
 # <summary><strong>Hallo :wave: , I'm <img src="https://drive.google.com/uc?id=1_JfSbIkciKqhXij0ldi0BVJWvZ9v36qB" width="70px" />.maris</strong></summary> 
 <p align="left"> 
