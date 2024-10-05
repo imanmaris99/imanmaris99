@@ -11,7 +11,7 @@
        
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I+have+a+background+in+the+automotive+industry+with+5.5+years+of+experience.;Currently,+I+am+passionately+studying+backend+and+frontend+development.;Thriving+through+continuous+learning+and+collaborative+innovation.;My+interest+in+web+development+drives+me+to+seek+new+knowledge+and+enhance+my+skills.;I+am+open+to+collaborations+and+new+opportunities.;Let's+create+something+great+together!;&font=fira%20Code&center=true&width=1200&height=60&color=FFFFFF&vCenter=true&pause=2000&size=20" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+have+a+background+in+the+automotive+industry+with+5.5+years+of+experience.;Currently,+I+am+passionately+studying+backend+and+frontend+development.;Thriving+through+continuous+learning+and+collaborative+innovation.;My+interest+in+web+development+drives+me+to+seek+new+knowledge+and+enhance+my+skills.;I+am+open+to+collaborations+and+new+opportunities.;Let's+create+something+great+together!;&font=fira%20Code&center=true&width=1200&height=60&color=FFFFFF&vCenter=true&pause=2000&size=25" />
   </a>
 </p>
 
