@@ -8,12 +8,20 @@
 <h1>
    <strong>:wave: Good to See You ! 
 </h1> 
+       
+<p align="center">
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=I+have+a+background+in+the+automotive+industry+with+5.5+years+of+experience.;Currently,+I+am+passionately+studying+backend+and+frontend+development.;Thriving+through+continuous+learning+and+collaborative+innovation.;My+interest+in+web+development+drives+me+to+seek+new+knowledge+and+enhance+my+skills.;I+am+open+to+collaborations+and+new+opportunities.;Let's+create+something+great+together!;&font=fira%20Code&center=true&width=1200&height=60&color=FFFFFF&vCenter=true&pause=2000&size=20" />
+  </a>
+</p>
+
+       
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=imanmaris99&label=Profile%20views&color=006400&style=flat" alt="isrealodejobi" />
 </p>
-<p style="text-align: justify;">
+<!-- <p style="text-align: justify;">
     I have a background in the automotive industry with 5.5 years of experience. Currently, I am passionately studying <b>backend</b> and frontend development, thriving through <b>continuous learning</b> and         <b>collaborative innovation</b>. My interest in web development drives me to continually seek new knowledge and enhance my skills in creating dynamic and user-friendly web applications.
-</p>
+</p> -->
 <!-- Passionately studying <b>junior backend</b> and <b>frontend development</b>, I thrive on <b>continuous learning</b> and <b>collaborative innovation</b>. -->
 
 
