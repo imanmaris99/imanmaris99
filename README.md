@@ -40,8 +40,10 @@
     <img src="https://img.shields.io/badge/My%20progress-here%20!!-yellow?&logo=contact&logoColor=white" />    
     </p>
     <div align=center>
-        <!--     <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p> -->
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&show_icons=true&locale=en&layout=compact" alt="imanmaris99" /></p>
+        <!--<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p> -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99 github streak" width="41.4%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99" />
+        <!--<img alt="0xBoji's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xboji&theme=dracula&hide_border=true"> -->
     </div>
 </div>
 
