@@ -5,7 +5,6 @@
 </p> -->
 <!-- img src="https://media.giphy.com/media/ZhmUInkyxoSJ9hywzj/giphy.gif" -->
     
-<!-- # <summary><strong>Hallo :wave: , I'm <img src="https://drive.google.com/uc?id=1_JfSbIkciKqhXij0ldi0BVJWvZ9v36qB" width="70px" />.maris</strong></summary> -->
 <h1>
    <strong>:wave: Good to See You ! 
 </h1> 
