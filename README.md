@@ -7,6 +7,11 @@
     
 <h1>
    <strong>:wave: Good to See You ! 
+    <!-- <div align="left">
+        <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
+            <img alt="Maris Tokopedia" width="30px" src="https://drive.google.com/uc?id=1IRowQh8vP4VsejW_E-Zul7zJZI5lIQCJ" />
+        </a>
+    </div> -->
 </h1> 
        
 <p align="center">
@@ -55,6 +60,7 @@
     </div>
 </div>
 
+<!--
 <h2>
     <summary><strong>Let's Connect!</strong></summary>
 </h2>
@@ -71,20 +77,18 @@
         </a>
     </div>
 </div>
-
-
-###
-
-<p style="font-size: 7px;">
-    Feel free to check out my UMKM at this : 
-</p>
-<div align="left">
-    <a href="https://www.tokopedia.com/herbalamimum" target="_blank" rel="noopener noreferrer">
-        <img alt="Maris Tokopedia" width="18px" src="https://simpleicons.now.sh/shopee/495f7e" />
-    </a>
-</div>
+-->
 
 ##
+
+###### Feel free to check out my link connection at this : 
+![LinkedIn](https://img.shields.io/badge/LinkedIn%20-0A66C2?style=flat-square&logo=linkedin&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail%20-white?style=flat-square&logo=gmail&logoColor=red)
+
+
+
+###### <div align="center"> copyright &copy; 2024 </div>
+
+<!--
 <div align="center">
      <a href="https://github.com/imanmaris99" target="_blank" rel="noopener noreferrer">
         <img src="https://drive.google.com/uc?id=1IRowQh8vP4VsejW_E-Zul7zJZI5lIQCJ" width="70px" />
@@ -94,8 +98,8 @@
     </p>
 </div>
 
+-->
 
-####
 
 <!-- <div align=center>
 <a href="https://www.linkedin.com/in/iman-maris-profile/">
