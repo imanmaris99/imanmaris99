@@ -52,32 +52,27 @@
     <p>
     <img src="https://img.shields.io/badge/My%20progress-here%20!!-yellow?&logo=contact&logoColor=white" />    
     </p>
-    <div align=center>
+    <!--<div align=center>
         <!--<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=imanmaris99&show_icons=true&locale=en&theme=nord" alt="imanmaris99" /></p> -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99 github streak" width="50%"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99" />
+        <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99 github streak" width="50%"/> -->
+        <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99" /> -->
         <!--<img alt="0xBoji's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xboji&theme=dracula&hide_border=true"> -->
+    <!--</div> -->
+    <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanmaris99&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+          <img height="150" src="https://github-readme-stats.vercel.app/api?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact" />
+            <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&theme=nord&locale=en&layout=compact" alt="Imanmaris99" /><br />
+                <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&radius=16&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99" /> -->
+        <br>
+    </p>
+    <div align="center">
+      <a href="https://github.com/CursedPrograms/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages">
+      </a>
     </div>
 </div>
 
-<!--
-<h2>
-    <summary><strong>Let's Connect!</strong></summary>
-</h2>
-<div>
-    <p>
-    <img src="https://img.shields.io/badge/Contact%20me-here%20!!-red?&logo=contact&logoColor=white" />    
-    </p>
-    <div align="center">
-        <a href="mailto:marisiman99@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail%20-white?&logo=gmail&logoColor=red" />
-        </a>   
-        <a href="https://www.linkedin.com/in/iman-maris-profile">
-          <img src="https://img.shields.io/badge/LinkedIn%20-0A66C2?&logo=linkedin&logoColor=white" />
-        </a>
-    </div>
-</div>
--->
+
 
 ##
 
