@@ -60,15 +60,13 @@
     <!--</div> -->
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanmaris99&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-          <img height="150" src="https://github-readme-stats.vercel.app/api?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact" />
-            <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&theme=nord&locale=en&layout=compact" alt="Imanmaris99" /><br />
                 <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&radius=16&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99" /> -->
         <br>
     </p>
     <div align="center">
-      <a href="https://github.com/CursedPrograms/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages">
-      </a>
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact" />
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages">
+        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&theme=nord&locale=en&layout=compact" alt="Imanmaris99" />
     </div>
 </div>
 
