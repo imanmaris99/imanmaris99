@@ -70,7 +70,7 @@
     </div></br>
     <div align="center">
       <a href="https://gamejolt.com/@CursedEntertainment">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages" style="width: 30%;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages" style="width: 35%;"/>
       </a>
     </div>
 </div>
