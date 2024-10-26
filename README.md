@@ -59,7 +59,7 @@
         <!--<img alt="0xBoji's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xboji&theme=dracula&hide_border=true"> -->
     <!--</div> -->
     <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanmaris99&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imanmaris99&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="400" alt="activity-graph graph"  />
                 <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanmaris99&radius=16&show_icons=true&theme=nord&locale=en&layout=compact&hide_border=true" alt="imanmaris99" /> -->
         <br>
     </p>
