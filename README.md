@@ -64,15 +64,15 @@
         <br>
     </p>
     <div align="center">
+        <!--img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages"/-->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imanmaris99&theme=github_dark" />
+    </div>
+    <div align="center">
         <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=imanmaris99&theme=nord&locale=en&layout=compact" alt="Imanmaris99" />
         <!--img height="160" src="https://github-readme-stats.vercel.app/api?username=imanmaris99&show_icons=true&theme=nord&locale=en&layout=compact" />
         <!--<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages"> -->
     </div></br>
-    <!--div align="center">
-      <a href="https://gamejolt.com/@CursedEntertainment">
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanmaris99&layout=compact&langs_count=24&theme=nord&locale=en" alt="Favourite Languages"/>
-      </a>
-    </div-->
+
 </div>
 
 
